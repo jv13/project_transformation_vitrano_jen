@@ -238,7 +238,7 @@ a {
 .more {
     display: block;
     width: 88px;
-    padding: 5px 5px;
+    padding: 5px 1px;
     margin-right: 10px;
     background: #222222;
     color: #FFFFFF;
@@ -247,6 +247,7 @@ a {
 }
 
 .comments {
+    margin-top: 10px;
     display: block;
     width: 88px;
     padding: 5px 5px;
