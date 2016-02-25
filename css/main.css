@@ -272,8 +272,7 @@ a {
 .more {
     display: block;
     float: left;
-    width: 88px;
-    padding: 5px 1px;
+    padding: 10px 10px;
     margin-right: 10px;
     background: #222222;
     color: #FFFFFF;
@@ -285,8 +284,7 @@ a {
     display: block;
     margin-left: 10px;
     float: left;
-    width: 88px;
-    padding: 5px 5px;
+    padding: 10px 10px;
     background: #222222;
     color: #FFFFFF;
     text-align: center;
