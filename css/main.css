@@ -237,6 +237,17 @@ a {
 
 
 /* Sidebar */
+
+#sidebar {
+    padding: 20px;
+}
+
+@media (min-width: 1200px) {
+    #sidebar{
+      padding: 0;
+    }
+}
+
 #sidebar ul {
     margin: 0;
     padding: 0;
