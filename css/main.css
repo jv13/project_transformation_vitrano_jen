@@ -58,10 +58,6 @@ a {
     color: #5E5E5E;
 }
 
-#wrapper {
-    background: #FFFFFF url(../img/img05.jpg) repeat;
-}
-
 .container {
     margin: 0px auto;
 }
@@ -263,6 +259,7 @@ a {
     margin: 0;
     padding: 0;
     list-style: none;
+    text-decoration: none;
 }
 
 #sidebar li {
@@ -270,19 +267,19 @@ a {
     padding: 0;
 }
 
-#sidebar li ul {
+#sidebar section ul {
     margin: 0px 0px;
     padding-bottom: 30px;
 }
 
-#sidebar li li {
-    line-height: 40px;
+#sidebar section li {
+    line-height: 45px;
     border-bottom: 1px solid #E7EBED;
     margin: 0px 0px;
     border-left: none;
 }
 
-#sidebar li li span {
+#sidebar section li span {
     display: block;
     margin-top: -20px;
     padding: 0;
@@ -290,14 +287,13 @@ a {
     font-style: italic;
 }
 
-#sidebar li li a {
+#sidebar section li a {
     padding: 0px 0px 0px 20px;
     background: url(../img/img04.jpg) no-repeat left 50%;
 }
 
 #sidebar h3 {
-    height: 38px;
-    padding: 0px 0px 30px 0px;
+    padding: 10px 0px 5px 0px;
     letter-spacing: -.5px;
     font-size: 1.8em;
     color: #222222;
