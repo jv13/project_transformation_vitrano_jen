@@ -48,12 +48,7 @@ a {
 
 
 /* Header */
-#header-wrapper {
-    overflow: hidden;
-}
-
 #header {
-    height: 150px;
     margin: 0 auto;
     padding: 0px 0px;
 }
@@ -61,7 +56,6 @@ a {
 
 /* Logo */
 #logo {
-    width: 300px;
     margin: 0;
     padding: 0;
     color: #FFFFFF;
@@ -147,15 +141,12 @@ a {
 
 /* Menu */
 #menu {
-    width: 500px;
-    height: 90px;
     margin: 0 auto;
     padding: 0;
 }
 
 #menu ul {
     margin: 0;
-    padding: 20px 0px 0px 0px;
     list-style: none;
     line-height: normal;
 }
