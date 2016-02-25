@@ -243,6 +243,10 @@ a {
     text-align: justify;
 }
 
+.posted {
+    padding: 0px 0px 0px 10px;
+}
+
 .links {
     padding-top: 20px;
     margin-bottom: 30px;
